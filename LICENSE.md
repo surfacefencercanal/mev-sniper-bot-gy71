@@ -1,4 +1,4 @@
-# 
+# ultimate MEV sniper bot | new-token-detection + auto-sell offers the most advanced MEV sniper bot, with new-token-detection and auto-sell. Ideal for professional MEV and sniper
 
 
 
